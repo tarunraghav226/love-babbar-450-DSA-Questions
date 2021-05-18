@@ -19,7 +19,3 @@ public class MinLenSB {
         return min_len;
     }
 }
-    public static void main(String[] args) {
-            
-    }
-}
