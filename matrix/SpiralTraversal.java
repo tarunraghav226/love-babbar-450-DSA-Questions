@@ -2,7 +2,6 @@ import java.util.ArrayList;
 
 public class SpiralTraversal{
     static ArrayList<Integer> spirallyTraverse(int matrix[][], int r, int c){
-        static ArrayList<Integer> spirallyTraverse(int matrix[][], int r, int c){
             ArrayList<Integer> arr = new ArrayList<>();
           
             int top=0, down=r-1, left=0, right=c-1;
