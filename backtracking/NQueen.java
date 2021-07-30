@@ -1,3 +1,4 @@
+import java.util.*;
 public class NQueen {
         public List<List<String>> solveNQueens(int n) {
             char[][] board = new char[n][n];
